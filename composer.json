@@ -1,0 +1,11 @@
+{
+    "name": "zhuayi/base_admin",
+    "authors": [
+        {
+            "name": "zhuayi",
+            "email": "2179942@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
